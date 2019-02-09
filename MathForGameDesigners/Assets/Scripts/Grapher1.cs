@@ -6,7 +6,8 @@ public class Grapher1 : MonoBehaviour {
 		Linear,
 		Exponential,
 		Parabola,
-		Sine
+		Sine,
+		Cose
 	}
 	
 	private delegate float FunctionDelegate (float x);
@@ -14,7 +15,8 @@ public class Grapher1 : MonoBehaviour {
 		Linear,
 		Exponential,
 		Parabola,
-		Sine
+		Sine,
+		Cose
 	};
 
 	public FunctionOption function;
@@ -69,5 +71,10 @@ public class Grapher1 : MonoBehaviour {
 
 	private static float Sine (float x){
 		return 0.5f + 0.5f * Mathf.Sin(2 * Mathf.PI * x + Time.timeSinceLevelLoad);
+	}
+
+	private static float Cose(float x)
+	{
+		return Mathf.Cos(x);
 	}
 }
