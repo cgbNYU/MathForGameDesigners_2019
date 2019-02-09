@@ -86,4 +86,9 @@ public class Grapher2 : MonoBehaviour {
 		float squareRadius = p.x * p.x + p.z * p.z;
 		return 0.5f + Mathf.Sin(15f * Mathf.PI * squareRadius - 2f * t) / (2f + 100f * squareRadius);
 	}
+
+	private static float Pythagorean(Vector3 p, float t)
+	{
+		return 1;
+	}
 }
