@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d76135d-af34-4482-91fc-0191462869c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.MathForGameDesigners_2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.MathForGameDesigners_2019/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.MathForGameDesigners_2019/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.MathForGameDesigners_2019/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.MathForGameDesigners_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.MathForGameDesigners_2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MathForGameDesigners/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MathForGameDesigners/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MathForGameDesigners/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MathForGameDesigners/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Graph.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Graph.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Grapher1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Grapher1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Grapher2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Grapher2.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,63 +16,33 @@
     <session id="81287309">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="169" />
+          <entry key="cs" value="2023" />
+          <entry key="txt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="169" />
+          <entry key="C#" value="2023" />
+          <entry key="PLAIN_TEXT" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="cs" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="79881810">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="668" />
-          <entry key="shader" value="54" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="668" />
-          <entry key="ShaderLab" value="54" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cs" value="1" />
-          <entry key="shader" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="1" />
-          <entry key="ShaderLab" value="1" />
+          <entry key="C#" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -87,53 +52,101 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Graph.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
               <folding>
-                <marker date="1549424340271" expanded="false" signature="6:78" ph="..." />
-                <marker date="1549424340271" expanded="true" signature="114:1127" ph="{...}" />
-                <marker date="1549424340271" expanded="true" signature="306:777" ph="{...}" />
-                <marker date="1549424340271" expanded="true" signature="533:771" ph="{...}" />
-                <marker date="1549424340271" expanded="true" signature="835:1125" ph="{...}" />
-                <marker date="1549424340271" expanded="true" signature="889:1119" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeBackground.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding>
-                <marker date="1549425643457" expanded="false" signature="6:78" ph="..." />
-                <marker date="1549425643457" expanded="true" signature="125:129" ph="{...}" />
+                <marker date="1549308121553" expanded="true" signature="6:78" ph="..." />
+                <marker date="1549308121553" expanded="true" signature="114:802" ph="{...}" />
+                <marker date="1549308121553" expanded="true" signature="275:721" ph="{...}" />
+                <marker date="1549308121553" expanded="true" signature="458:715" ph="{...}" />
+                <marker date="1549308121553" expanded="true" signature="779:800" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Grapher1.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Grapher2.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+            <state relative-caret-position="560">
+              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
               <folding>
-                <marker date="1549385847255" expanded="true" signature="58:1648" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="90:146" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="256:312" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="506:829" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="676:826" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="848:1254" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="907:931" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="1028:1180" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="1296:1312" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="1359:1379" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="1421:1460" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="1498:1580" ph="{...}" />
-                <marker date="1549385847255" expanded="true" signature="1617:1646" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="58:2280" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="89:147" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="267:325" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="516:934" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="712:931" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="754:927" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="952:1398" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="1011:1035" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="1172:1325" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="1450:1468" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="1525:1549" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="1602:1681" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="1730:1978" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="2029:2205" ph="{...}" />
+                <marker date="1549584088610" expanded="true" signature="2260:2278" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Pythagorus.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <marker date="1549585644397" expanded="false" signature="6:97" ph="..." />
+                <marker date="1549585644397" expanded="true" signature="138:929" ph="{...}" />
+                <marker date="1549585644397" expanded="true" signature="329:384" ph="{...}" />
+                <marker date="1549585644397" expanded="true" signature="442:475" ph="{...}" />
+                <marker date="1549585644397" expanded="true" signature="504:927" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowCorner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+              <folding>
+                <marker date="1549586324820" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549586324820" expanded="true" signature="121:379" ph="{...}" />
+                <marker date="1549586324820" expanded="true" signature="234:255" ph="{...}" />
+                <marker date="1549586324820" expanded="true" signature="313:377" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DrawPixels.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <marker date="1549484607664" expanded="true" signature="6:149" ph="..." />
+                <marker date="1549484607664" expanded="true" signature="190:2398" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="530:563" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="621:657" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="679:1707" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="1288:1350" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="1732:2185" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="1929:2030" ph="{...}" />
+                <marker date="1549484607664" expanded="true" signature="2268:2396" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/OneDrive/Documents/UnityProjects/GraphVisualizing/Assets/Grapher1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -144,18 +157,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Grapher1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeBackground.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shaders/ColoredPoint.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowCorner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DrawPixels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pythagorus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/OneDrive/Documents/UnityProjects/GraphVisualizing/Assets/Grapher1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Graph.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Grapher2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Grapher1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Graph.cs" />
-        <option value="$PROJECT_DIR$/Assets/Shaders/ColoredPoint.shader" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DrawPixels.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grapher2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pythagorus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowCorner.cs" />
       </list>
     </option>
   </component>
@@ -166,9 +182,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="720" />
+    <option name="width" value="1210" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,12 +192,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -229,13 +245,29 @@
       <option name="presentableId" value="Default" />
       <updated>1549307442522</updated>
       <workItem from="1549307444137" duration="10000" />
-      <workItem from="1549307513048" duration="927000" />
-      <workItem from="1549383643698" duration="5239000" />
+      <workItem from="1549307513048" duration="1635000" />
+      <workItem from="1549481831150" duration="3422000" />
+      <workItem from="1549583367891" duration="3422000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Graphers from the sample project">
+      <created>1549381889142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549381889142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added pixel drawing script">
+      <created>1549484652017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549484652017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6176000" />
+    <option name="totallyTimeSpent" value="8489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,7 +279,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -283,6 +315,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Graphers from the sample project" />
+    <MESSAGE value="Added pixel drawing script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pixel drawing script" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -294,64 +331,92 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/OneDrive/Documents/UnityProjects/GraphVisualizing/Assets/Grapher1.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Grapher1.cs">
+    <entry file="file://$USER_HOME$/OneDrive/Documents/UnityProjects/GraphVisualizing/Assets/Grapher1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
-          <folding>
-            <marker date="1549385847255" expanded="true" signature="58:1648" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="90:146" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="256:312" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="506:829" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="676:826" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="848:1254" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="907:931" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="1028:1180" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="1296:1312" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="1359:1379" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="1421:1460" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="1498:1580" ph="{...}" />
-            <marker date="1549385847255" expanded="true" signature="1617:1646" ph="{...}" />
-          </folding>
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/ColoredPoint.shader">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DrawPixels.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        <state relative-caret-position="450">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
-            <marker date="1549424814966" expanded="true" signature="29:1430" ph="{...}" />
-            <marker date="1549424814966" expanded="true" signature="50:159" ph="{...}" />
-            <marker date="1549424814966" expanded="true" signature="178:1405" ph="{...}" />
-            <marker date="1549424814966" expanded="true" signature="253:1394" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="6:149" ph="..." />
+            <marker date="1549484607664" expanded="true" signature="190:2398" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="530:563" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="621:657" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="679:1707" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="1288:1350" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="1732:2185" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="1929:2030" ph="{...}" />
+            <marker date="1549484607664" expanded="true" signature="2268:2396" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Graph.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
           <folding>
-            <marker date="1549424340271" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549424340271" expanded="true" signature="114:1127" ph="{...}" />
-            <marker date="1549424340271" expanded="true" signature="306:777" ph="{...}" />
-            <marker date="1549424340271" expanded="true" signature="533:771" ph="{...}" />
-            <marker date="1549424340271" expanded="true" signature="835:1125" ph="{...}" />
-            <marker date="1549424340271" expanded="true" signature="889:1119" ph="{...}" />
+            <marker date="1549308121553" expanded="true" signature="6:78" ph="..." />
+            <marker date="1549308121553" expanded="true" signature="114:802" ph="{...}" />
+            <marker date="1549308121553" expanded="true" signature="275:721" ph="{...}" />
+            <marker date="1549308121553" expanded="true" signature="458:715" ph="{...}" />
+            <marker date="1549308121553" expanded="true" signature="779:800" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeBackground.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Grapher2.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="560">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
           <folding>
-            <marker date="1549425643457" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549425643457" expanded="true" signature="125:129" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="58:2280" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="89:147" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="267:325" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="516:934" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="712:931" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="754:927" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="952:1398" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="1011:1035" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="1172:1325" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="1450:1468" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="1525:1549" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="1602:1681" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="1730:1978" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="2029:2205" ph="{...}" />
+            <marker date="1549584088610" expanded="true" signature="2260:2278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Pythagorus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <marker date="1549585644397" expanded="false" signature="6:97" ph="..." />
+            <marker date="1549585644397" expanded="true" signature="138:929" ph="{...}" />
+            <marker date="1549585644397" expanded="true" signature="329:384" ph="{...}" />
+            <marker date="1549585644397" expanded="true" signature="442:475" ph="{...}" />
+            <marker date="1549585644397" expanded="true" signature="504:927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowCorner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <marker date="1549586324820" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549586324820" expanded="true" signature="121:379" ph="{...}" />
+            <marker date="1549586324820" expanded="true" signature="234:255" ph="{...}" />
+            <marker date="1549586324820" expanded="true" signature="313:377" ph="{...}" />
           </folding>
         </state>
       </provider>
