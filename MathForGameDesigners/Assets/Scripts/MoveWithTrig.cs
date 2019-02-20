@@ -10,6 +10,8 @@ public class MoveWithTrig : MonoBehaviour
     public float r = 5;
 
     public float speed = 1;
+
+    public bool isSpiral = false;
     
     // Start is called before the first frame update
     void Start()
@@ -20,13 +22,20 @@ public class MoveWithTrig : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = PointOnCircle(Time.time * speed, r * Mathf.Sin(Time.time));
+        if (isSpiral)
+        {
+            transform.position = PointOnCircle(Time.time * speed, r * Mathf.Sin(Time.time));
+        }
+        else
+        {
+            transform.position = PointOnCircle(Time.time * speed, r);
+        }
         
-        Vector3 newpos = transform.position;
+        /*Vector3 newpos = transform.position;
 
         newpos.z = Time.time;
 
-        transform.position = newpos;
+        transform.position = newpos;*/
     }
 
     //Angle is in Radians
