@@ -582,7 +582,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   theta: 0
   r: 40
-  speed: 65.5
+  speed: 100
   isSpiral: 0
 --- !u!23 &1083080478
 MeshRenderer:

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Chapin Boyer\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Chapin Boyer\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_MathForGameDesigners.-1357518936.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Chapin Boyer\Documents\Unity Projects\MathForGameDesigners_2019\MathForGameDesigners" t="IncludeRecursive">
+    <e p="C:\Users\chapi\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\chapi\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_MathForGameDesigners.-1639220719.00" t="ExcludeRecursive" />
+    <e p="C:\Users\chapi\Documents\Unity Projects\MathForGameDesigners_2019\MathForGameDesigners" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Demigiant" t="Include">
@@ -21,15 +21,19 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CameraMatrix.cs" t="Include" />
           <e p="ChangeBackground.cs" t="Include" />
           <e p="DrawPixels.cs" t="Include" />
+          <e p="DrawVectors.cs" t="Include" />
           <e p="FollowCorner.cs" t="Include" />
           <e p="Graph.cs" t="Include" />
           <e p="Grapher1.cs" t="Include" />
           <e p="Grapher2.cs" t="Include" />
           <e p="Grapher3.cs" t="Include" />
           <e p="MoveWithTrig.cs" t="Include" />
+          <e p="PointOnCircleColor.cs" t="Include" />
           <e p="Pythagorus.cs" t="Include" />
+          <e p="TrigExampleScript.cs" t="Include" />
         </e>
         <e p="Shaders" t="Include">
           <e p="ColoredPoint.shader" t="Include" />
