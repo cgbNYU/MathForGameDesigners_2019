@@ -17,12 +17,12 @@ public class RotationTransformation : Transformation
             float radZ = rotation.z * Mathf.Deg2Rad; //simple conversion from degrees to radians
 
             //These points calculate the position along the SINE and COSINE waves each y and x coordinate lands, respectively
-            float sinX = Mathf.Sin(radX);
-            float cosX = Mathf.Cos(radX);
-            float sinY = Mathf.Sin(radY);
-            float cosY = Mathf.Cos(radY);
-            float sinZ = Mathf.Sin(radZ); //the y position moves along a SINE wave during rotation, so this does that
-            float cosZ = Mathf.Cos(radZ); //x moves along COSINE
+            float sinX = Mathf.Sin(radX+Time.time);
+            float cosX = Mathf.Cos(radX+Time.time);
+            float sinY = Mathf.Sin(radY+Time.time);
+            float cosY = Mathf.Cos(radY+Time.time);
+            float sinZ = Mathf.Sin(radZ+Time.time); //the y position moves along a SINE wave during rotation, so this does that
+            float cosZ = Mathf.Cos(radZ+Time.time); //x moves along COSINE
 
             //Each of these vectors represents a single column of the rotation matrix created by multiplying all 3 axes
             Matrix4x4 matrix = new Matrix4x4();
