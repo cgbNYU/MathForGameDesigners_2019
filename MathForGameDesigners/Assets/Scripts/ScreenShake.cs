@@ -31,7 +31,7 @@ public class ScreenShake : MonoBehaviour
     private Vector3 shakeRange = new Vector3(1, 1, 1);
     private double i = 0;
     private float timer;
-    private bool isShake = false;
+    public bool isShake = false;
     
     // Start is called before the first frame update
     void Start()
